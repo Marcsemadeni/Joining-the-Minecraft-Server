@@ -1,2 +1,3 @@
-# Joining-the-Minecraft-Server
-List of instructions to download tail scales and join the minecraft server 
+# How to join the Minecraft server
+For our minecraft server, you will need to download a vpn here: https://tailscale.com/
+
