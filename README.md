@@ -8,7 +8,8 @@ This is a free vpn and is fairly easy to set up.
 Because the minecraft server is hosted on the school wifi, this vpn will let you play when you are off campus.
 
 ### Step Two
-Copy this link here: https://login.tailscale.com/admin/invite/NS8yp3Mid4U
+Copy the link in Discord
+If it has expired, message Marc
 
 Make sure to skip the intro before accepting the link or else it wont work
 
